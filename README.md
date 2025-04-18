@@ -10,3 +10,5 @@ Quantitative Developer Certificate (2025) - WBS/Thalesians
 
 ### Projects python
 - Value at Risk (VaR) with Monte Carlo simulations
+- Piotroski F-score
+- Dividend Stock screener
