@@ -14,11 +14,12 @@ Open to junior or entry-level positions.
 
 <!--Section 3: projects developed in c++ -->
 ### Projects c++
-- Value at Risk (VaR) with Monte Carlo simulations
+- [Value at Risk (VaR) with Monte Carlo simulations](https://github.com/mrubin01/montecarloVaR)
 
 <!--Section 3: projects developed in python -->
 ### Projects python
-- Value at Risk (VaR) with Monte Carlo simulations
+- [Value at Risk (VaR) with Monte Carlo simulations](https://github.com/mrubin01/montecarloVaR_python)
+- [Machine Learning for passive investing](https://github.com/mrubin01/ML-for-Passive-Investing)
 
 <!--Section 3: contacts and social media -->
 ### Contact details / Blogging
