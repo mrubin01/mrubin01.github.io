@@ -15,6 +15,7 @@ Open to junior or entry-level positions.
 <!--Section 3: projects developed in c++ -->
 ### Projects c++
 - [Value at Risk (VaR) with Monte Carlo simulations](https://github.com/mrubin01/montecarloVaR)
+![VaR](https://github.com/mrubin01/mrubin01.github.io/blob/main/var_aapl.png)
 
 <!--Section 3: projects developed in python -->
 ### Projects python
