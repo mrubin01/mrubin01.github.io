@@ -18,7 +18,7 @@ Open to junior or entry-level positions.
 ![VaR](var_aapl.png)
 
 - [Stock Volatility](https://github.com/mrubin01/stockVolatility)
-
+![AAPL Volatility](aapl_volatility.png)
 
 <!--Section 3: projects developed in python -->
 ### Projects python
