@@ -17,6 +17,9 @@ Open to junior or entry-level positions.
 - [Value at Risk (VaR) with Monte Carlo simulations](https://github.com/mrubin01/montecarloVaR)
 ![VaR](var_aapl.png)
 
+- [Stock Volatility](https://github.com/mrubin01/stockVolatility)
+
+
 <!--Section 3: projects developed in python -->
 ### Projects python
 - [Value at Risk (VaR) with Monte Carlo simulations](https://github.com/mrubin01/montecarloVaR_python)
